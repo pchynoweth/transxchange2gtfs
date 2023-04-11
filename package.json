@@ -56,7 +56,7 @@
     "glob": "^7.1.6",
     "js-joda": "^1.11.0",
     "rimraf": "^2.7.1",
-    "xml2js": "^0.4.23"
+    "xml2js": "^0.5.0"
   },
   "nyc": {
     "extends": "@istanbul/nyc-config-typescript",
